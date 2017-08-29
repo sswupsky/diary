@@ -2,17 +2,14 @@ https://github.com/shadowsocksrr/shadowsocks-rss.git
 https://github.com/shadowsocksrr
 https://github.com/shadowsocksrr/shadowsocksr；
 Server
-
 Install
-
 Debian / Ubuntu:
-
 apt-get install git
 git clone https://github.com/shadowsocksr/shadowsocksr.git
-CentOS:
 
+CentOS:
 yum install git
 git clone https://github.com/shadowsocksr/shadowsocksr.git
-Windows:
 
+Windows:
 git clone https://github.com/shadowsocksr/shadowsocksr.git
