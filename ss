@@ -62,3 +62,4 @@ uname -r  #输入命令，查看是否有内核4.9.0内核，有就说明更换�
 一键安装脚本
 wget --no-check-certificate  https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
 chmod +x shadowsocks.sh
+./shadowsocks.sh 2>&1 | tee shadowsocks.log
